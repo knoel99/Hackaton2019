@@ -33,3 +33,7 @@ The data to retreive are located in the 'Tertiary structure section'.
 * Line 66 is where the processed data of the 3x3 matrices from the previous file can be paste
 * Line 70 is where the processed data of the amino acid from the previous file can be paste
 
+## Gallery
+See the gallery on the Facebook page [Plot MiniFold](https://www.facebook.com/Plot-MiniFold-340259589956236)
+
+![Plot MiniFold](./plotminifold.png)
